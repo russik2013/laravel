@@ -85,7 +85,7 @@
             <input type="hidden" name="_method" value="POST">
 
             <p>Enter username</p>
-            <input type="text" name="user_name" id="user_name">
+            <input type="text" name="username" id="username">
 
             <p>Enter password</p>
             <input type="password" name="password" id="password">
